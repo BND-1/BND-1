@@ -1,4 +1,25 @@
-## Hey, I'm Evan Yang 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Evan+Yang+%F0%9F%91%8B;AI+Builder+%7C+Indie+Dev;Building+Tools+with+AI" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://yangsir.net"><img src="https://img.shields.io/badge/yangsir.net-个人主页-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://skills.yangsir.net"><img src="https://img.shields.io/badge/SkillForge-AI_Skill_平台-blueviolet?style=flat-square&logo=rocket&logoColor=white" /></a>
+  <a href="https://ai.daily.yangsir.net"><img src="https://img.shields.io/badge/AI_Daily-AIGC_资讯-orange?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+#### `> whoami`
 
 AI 产品经理 / 独立开发者 / 开源爱好者
 
@@ -6,54 +27,62 @@ AI 产品经理 / 独立开发者 / 开源爱好者
 
 ---
 
-### 🌐 我的网站
+#### `> cat websites.md`
 
-| 网站 | 简介 | 技术栈 |
-|------|------|--------|
-| [yangsir.net](https://yangsir.net) | 个人主页 | - |
-| [skills.yangsir.net](https://skills.yangsir.net) | **SkillForge** — AI Agent Skill 展示平台，按职业场景组织，409+ Skills 覆盖 17 个垂直领域 | Next.js · SQLite · Drizzle ORM |
-| [ai.daily.yangsir.net](https://ai.daily.yangsir.net) | **AI Daily** — AIGC 资讯聚合与内容平台 | Next.js · Payload CMS · next-intl |
-| [mind.yangsir.net](https://mind.yangsir.net) | **Drawnix** — 开源白板工具，支持思维导图、流程图、自由画 | TypeScript |
+**[yangsir.net](https://yangsir.net)** — 个人主页
 
----
+**[skills.yangsir.net](https://skills.yangsir.net)** — **SkillForge**，AI Agent Skill 展示平台，按职业场景组织，409+ Skills 覆盖 17 个垂直领域
 
-### 🔥 开源项目
-
-| 项目 | Stars | 简介 |
-|------|-------|------|
-| [wechat_article_skills](https://github.com/BND-1/wechat_article_skills) | ⭐ 189 | 微信公众号文章工具集 — AI 写作、格式化、草稿发布一站式方案 |
-| [taste-skill](https://github.com/BND-1/taste-skill) | ⭐ 15 | High-Agency Frontend Skill — 让 AI 生成有品味的前端，告别千篇一律 |
-| [claude-code-hooks-notification](https://github.com/BND-1/claude-code-hooks-notification) | ⭐ 12 | Claude Code Hooks 通知方案 — 任务完成即时推送 |
-| [drawnix-plus](https://github.com/BND-1/drawnix-plus) | ⭐ 2 | 开源白板工具（SaaS），思维导图 + 流程图 + 自由画，支持用户登录与数据同步 |
+**[ai.daily.yangsir.net](https://ai.daily.yangsir.net)** — **AI Daily**，AIGC 资讯聚合与内容平台
 
 ---
 
-### 🛠 技术栈
+#### `> ls projects/`
 
-**语言**&ensp; Python · TypeScript · JavaScript · Go
-
-**前端**&ensp; Next.js · React · Tailwind CSS · Svelte
-
-**后端 & 数据**&ensp; Payload CMS · Drizzle ORM · SQLite · MongoDB
-
-**AI & 自动化**&ensp; Claude Code · Dify · MCP Servers · LLM API
-
-**DevOps**&ensp; Docker · GitHub Actions · PM2 · Zabbix
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BND-1/wechat_article_skills">wechat_article_skills</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/BND-1/wechat_article_skills?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/github/forks/BND-1/wechat_article_skills?style=flat-square&color=blue" />
+      </p>
+      <p>微信公众号文章工具集 — AI 写作、格式化、草稿发布一站式方案</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BND-1/taste-skill">taste-skill</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/BND-1/taste-skill?style=flat-square&color=yellow" />
+      </p>
+      <p>High-Agency Frontend Skill — 让 AI 生成有品味的前端，告别千篇一律</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BND-1/claude-code-hooks-notification">claude-code-hooks-notification</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/BND-1/claude-code-hooks-notification?style=flat-square&color=yellow" />
+      </p>
+      <p>Claude Code Hooks 通知方案 — 任务完成即时推送</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BND-1/chinese-llm-benchmark">chinese-llm-benchmark</a></h3>
+      <p>中文 AI 大模型能力评测，335+ 模型，200 万+ 缺陷库</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+#### `> neofetch`
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BND-1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BND-1&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BND-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BND-1&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=00000000" />
 </p>
 
 ---
 
-### 💬 最近在做什么
-
-- 🔧 持续维护 [wechat_article_skills](https://github.com/BND-1/wechat_article_skills)，打造公众号写作最佳实践
-- 🚀 建设 [SkillForge](https://skills.yangsir.net) — 让每个 AI Skill 都成为你的数字员工
-- 📰 运营 [AI Daily](https://ai.daily.yangsir.net) — 追踪 AIGC 前沿动态
-- 🎨 深度使用 Claude Code + Skills 体系，探索 AI 辅助开发的边界
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BND-1&style=flat-square&color=grey" />
+</p>
