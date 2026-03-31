@@ -31,9 +31,9 @@ AI 产品经理 / 独立开发者 / 开源爱好者
 
 **[yangsir.net](https://yangsir.net)** — 个人主页
 
-**[skills.yangsir.net](https://skills.yangsir.net)** — **SkillForge**，AI Agent Skill 展示平台，按职业场景组织，409+ Skills 覆盖 17 个垂直领域
+**[skills.yangsir.net](https://skills.yangsir.net)** — **SkillForge**，AI Agent Skill 展示平台，按职业场景组织，4700+ Skills 覆盖 26 个垂直领域
 
-**[ai.daily.yangsir.net](https://ai.daily.yangsir.net)** — **AI Daily**，AIGC 资讯聚合与内容平台
+**[ai.daily.yangsir.net](https://ai.daily.yangsir.net)** — **AI Daily**，每日精选 AI 资讯，来自个人收集与 Karpathy 推荐源的筛选整理
 
 ---
 
@@ -71,15 +71,6 @@ AI 产品经理 / 独立开发者 / 开源爱好者
     </td>
   </tr>
 </table>
-
----
-
-#### `> neofetch`
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BND-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BND-1&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=00000000" />
-</p>
 
 ---
 
