@@ -6,7 +6,7 @@
   <a href="https://yangsir.net"><img src="https://img.shields.io/badge/yangsir.net-个人主页-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://skills.yangsir.net"><img src="https://img.shields.io/badge/SkillForge-AI_Skill_平台-blueviolet?style=flat-square&logo=rocket&logoColor=white" /></a>
   <a href="https://ai.daily.yangsir.net"><img src="https://img.shields.io/badge/AI_Daily-AIGC_资讯-orange?style=flat-square&logo=rss&logoColor=white" /></a>
-  <a href="https://my.feishu.cn/wiki/PFJswU0arip563kZbpNccWkIn0f?fromScene=spaceOverview"><img src="https://img.shields.io/badge/Claude_Code-系列教程-green?style=flat-square&logo=feishu&logoColor=white" /></a>
+  <a href="https://my.feishu.cn/wiki/PFJswU0arip563kZbpNccWkIn0f?fromScene=spaceOverview"><img src="https://img.shields.io/badge/Claude_Code-系列教程-green?style=flat-square&logo=bookstack&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -65,10 +65,6 @@ AI 产品经理 / 独立开发者 / 开源爱好者
         <img src="https://img.shields.io/github/stars/BND-1/claude-code-hooks-notification?style=flat-square&color=yellow" />
       </p>
       <p>Claude Code Hooks 通知方案 — 任务完成即时推送</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BND-1/chinese-llm-benchmark">chinese-llm-benchmark</a></h3>
-      <p>中文 AI 大模型能力评测，335+ 模型，200 万+ 缺陷库</p>
     </td>
   </tr>
 </table>
