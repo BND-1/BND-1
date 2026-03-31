@@ -6,6 +6,7 @@
   <a href="https://yangsir.net"><img src="https://img.shields.io/badge/yangsir.net-个人主页-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://skills.yangsir.net"><img src="https://img.shields.io/badge/SkillForge-AI_Skill_平台-blueviolet?style=flat-square&logo=rocket&logoColor=white" /></a>
   <a href="https://ai.daily.yangsir.net"><img src="https://img.shields.io/badge/AI_Daily-AIGC_资讯-orange?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://my.feishu.cn/wiki/PFJswU0arip563kZbpNccWkIn0f?fromScene=spaceOverview"><img src="https://img.shields.io/badge/Claude_Code-系列教程-green?style=flat-square&logo=feishu&logoColor=white" /></a>
 </p>
 
 <p align="center">
