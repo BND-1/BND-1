@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&labelColor=412991&color=412991" />
 </p>
 
 ---
