@@ -62,6 +62,14 @@ AI 产品经理 / 独立开发者 / 开源爱好者
       </p>
       <p>Claude Code Hooks 通知方案 — 任务完成即时推送</p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BND-1/horseMD">horseMD</a></h3>
+      <p>
+        <img src="https://img.shields.io/github/stars/BND-1/horseMD?style=flat-square&color=yellow" />
+        <img src="https://img.shields.io/badge/Windows_%2B_macOS-555?style=flat-square&logo=electron&logoColor=white" />
+      </p>
+      <p>免费开源的 Typora 平替 Markdown 编辑器 — 单窗口 + 标签页 + 文件树 + 所见即所得 · <a href="https://horsemd.yangsir.net">官网</a></p>
+    </td>
   </tr>
 </table>
 
