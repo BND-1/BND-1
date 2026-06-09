@@ -28,9 +28,15 @@ AI 产品经理 / 独立开发者 / 开源爱好者
 
 **[yangsir.net](https://yangsir.net)** — 个人主页
 
-**[skills.yangsir.net](https://skills.yangsir.net)** — **SkillForge**，AI Agent Skill 展示平台，按职业场景组织，4700+ Skills 覆盖 26 个垂直领域
+**[skills.yangsir.net](https://skills.yangsir.net)** — **SkillForge**，AI Agent Skill 展示平台，按职业场景组织，5700+ Skills 覆盖 30 个垂直领域
 
 **[ai.daily.yangsir.net](https://ai.daily.yangsir.net)** — **AI Daily**，每日精选 AI 资讯，来自个人收集与 Karpathy 推荐源的筛选整理
+
+**[learnagent.wiki](https://learnagent.wiki)** — **LearnAgent**，AI Agent 中文学习站，Agent / MCP / Skills / CLI 四套 wiki，224 张卡片统一搜索
+
+**[pmti.live](https://pmti.live)** — **PMTI**，受 MBTI / SBTI / CBTI 启发的迷你测验，几道题判断你的产品风格
+
+**[horsemd.yangsir.net](https://horsemd.yangsir.net)** — **HorseMD**，免费开源的 Typora 平替 Markdown 编辑器，Windows / macOS 双平台
 
 ---
 
